@@ -11,7 +11,7 @@ import lombok.Setter;
 @AllArgsConstructor
 public class BoatEvent {
         Integer id;
-		String vin;
+		String hin;
 		Double latitude;
 		Double longitude;
 		Integer altitude;
